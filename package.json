@@ -1,5 +1,5 @@
 {
-  "name": "otp-bot",
+  "name": "telegram-otp-bot",
   "version": "1.0.0",
   "description": "A telegram otp bot that generates otp to authorized user",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "start": "npm run build; node ."
   },
   "author": "Semesse",
-  "license": "ISC",
+  "license": "GPLv3",
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "node-forge": "^1.2.1",
